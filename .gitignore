@@ -1,0 +1,14 @@
+# Ambientes Virtuais e Dependências
+node_modules/
+venv/
+.env/
+__pycache__/
+
+# Chaves e Segredos
+.env
+*.pem
+credentials.json
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
